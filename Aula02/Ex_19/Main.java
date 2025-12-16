@@ -1,0 +1,14 @@
+package Aula02_Ex_19;
+
+/**
+ *
+ * @author PEDROBORGESPOSPICHIL
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        
+        Pessoa pessoa = new Pessoa("João", 25);
+        System.out.println("\n" + pessoa);
+    }
+}
